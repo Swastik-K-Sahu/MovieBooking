@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+build/
+
+# Gradle
+.gradle/
+/build
+/out
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/resources/**
+
+# Spring Boot
+target/
+/tmp
+*.log
+*.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Cache and temp files
+/target/
+/build/
+/out/
+/tmp/
+*.bak
+*.swp
